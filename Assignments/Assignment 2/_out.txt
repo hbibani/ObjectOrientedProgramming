@@ -1,0 +1,248 @@
+------------------------------------------------------------------------------------
+Sorted bids: 
+------------------------------------------------------------------------------------
+traderID bidType bidID   price   quantity 
+(Buyer6,    B,    11,    $148.691,   39)
+(Buyer3,    B,    5,    $144.675,   8)
+(Buyer9,    B,    17,    $141.632,   22)
+(Buyer8,    B,    15,    $132.788,   21)
+(Buyer4,    B,    7,    $132.287,   41)
+(Buyer5,    B,    9,    $129.742,   34)
+(Buyer7,    B,    13,    $121.459,   38)
+(Buyer1,    B,    1,    $120.492,   33)
+(Buyer10,    B,    19,    $96.1104,   24)
+(Buyer2,    B,    3,    $81.0862,   6)
+
+(Seller3,    S,    6,    $108.153,    3)
+(Seller10,    S,    20,    $82.3649,    6)
+(Seller9,    S,    18,    $53.9979,    14)
+(Seller2,    S,    4,    $126.211,    19)
+(Seller4,    S,    8,    $117.498,    24)
+(Seller7,    S,    14,    $82.7006,    30)
+(Seller1,    S,    2,    $138.934,    32)
+(Seller5,    S,    10,    $146.64,    32)
+(Seller6,    S,    12,    $122.024,    38)
+(Seller8,    S,    16,    $91.0749,    43)
+------------------------------------------------------------------------------------
+Matches: 
+------------------------------------------------------------------------------------
+Matched Bid : 1
+
+BuyerID: 6
+Buyer Bid ID: 11
+Buyer Price: $148.691
+Buyer Quantity: 39
+SellerID: 3
+Seller Bid ID: 6
+Seller Price: $108.153
+Seller Quantity: 3
+
+Quantity Taken: 3
+Clearing Price: $128.422
+Total Cost: $385.266
+------------------------------------------------------------------------------------
+Matched Bid : 2
+
+BuyerID: 6
+Buyer Bid ID: 11
+Buyer Price: $148.691
+Buyer Quantity: 36
+SellerID: 10
+Seller Bid ID: 20
+Seller Price: $82.3649
+Seller Quantity: 6
+
+Quantity Taken: 6
+Clearing Price: $115.528
+Total Cost: $693.167
+------------------------------------------------------------------------------------
+Matched Bid : 3
+
+BuyerID: 6
+Buyer Bid ID: 11
+Buyer Price: $148.691
+Buyer Quantity: 30
+SellerID: 9
+Seller Bid ID: 18
+Seller Price: $53.9979
+Seller Quantity: 14
+
+Quantity Taken: 14
+Clearing Price: $101.344
+Total Cost: $1418.82
+------------------------------------------------------------------------------------
+Matched Bid : 4
+
+BuyerID: 6
+Buyer Bid ID: 11
+Buyer Price: $148.691
+Buyer Quantity: 16
+SellerID: 2
+Seller Bid ID: 4
+Seller Price: $126.211
+Seller Quantity: 19
+
+Quantity Taken: 16
+Clearing Price: $137.451
+Total Cost: $2199.21
+------------------------------------------------------------------------------------
+Matched Bid : 5
+
+BuyerID: 3
+Buyer Bid ID: 5
+Buyer Price: $144.675
+Buyer Quantity: 8
+SellerID: 2
+Seller Bid ID: 4
+Seller Price: $126.211
+Seller Quantity: 3
+
+Quantity Taken: 3
+Clearing Price: $135.443
+Total Cost: $406.328
+------------------------------------------------------------------------------------
+Matched Bid : 6
+
+BuyerID: 3
+Buyer Bid ID: 5
+Buyer Price: $144.675
+Buyer Quantity: 5
+SellerID: 4
+Seller Bid ID: 8
+Seller Price: $117.498
+Seller Quantity: 24
+
+Quantity Taken: 5
+Clearing Price: $131.086
+Total Cost: $655.431
+------------------------------------------------------------------------------------
+Matched Bid : 7
+
+BuyerID: 9
+Buyer Bid ID: 17
+Buyer Price: $141.632
+Buyer Quantity: 22
+SellerID: 4
+Seller Bid ID: 8
+Seller Price: $117.498
+Seller Quantity: 19
+
+Quantity Taken: 19
+Clearing Price: $129.565
+Total Cost: $2461.73
+------------------------------------------------------------------------------------
+Matched Bid : 8
+
+BuyerID: 9
+Buyer Bid ID: 17
+Buyer Price: $141.632
+Buyer Quantity: 3
+SellerID: 7
+Seller Bid ID: 14
+Seller Price: $82.7006
+Seller Quantity: 30
+
+Quantity Taken: 3
+Clearing Price: $112.166
+Total Cost: $336.499
+------------------------------------------------------------------------------------
+Matched Bid : 9
+
+BuyerID: 8
+Buyer Bid ID: 15
+Buyer Price: $132.788
+Buyer Quantity: 21
+SellerID: 7
+Seller Bid ID: 14
+Seller Price: $82.7006
+Seller Quantity: 27
+
+Quantity Taken: 21
+Clearing Price: $107.744
+Total Cost: $2262.63
+------------------------------------------------------------------------------------
+Matched Bid : 10
+
+BuyerID: 4
+Buyer Bid ID: 7
+Buyer Price: $132.287
+Buyer Quantity: 41
+SellerID: 7
+Seller Bid ID: 14
+Seller Price: $82.7006
+Seller Quantity: 6
+
+Quantity Taken: 6
+Clearing Price: $107.494
+Total Cost: $644.963
+------------------------------------------------------------------------------------
+Matched Bid : 11
+
+BuyerID: 4
+Buyer Bid ID: 7
+Buyer Price: $132.287
+Buyer Quantity: 35
+SellerID: 6
+Seller Bid ID: 12
+Seller Price: $122.024
+Seller Quantity: 38
+
+Quantity Taken: 35
+Clearing Price: $127.155
+Total Cost: $4450.44
+------------------------------------------------------------------------------------
+Matched Bid : 12
+
+BuyerID: 5
+Buyer Bid ID: 9
+Buyer Price: $129.742
+Buyer Quantity: 34
+SellerID: 6
+Seller Bid ID: 12
+Seller Price: $122.024
+Seller Quantity: 3
+
+Quantity Taken: 3
+Clearing Price: $125.883
+Total Cost: $377.648
+------------------------------------------------------------------------------------
+Matched Bid : 13
+
+BuyerID: 5
+Buyer Bid ID: 9
+Buyer Price: $129.742
+Buyer Quantity: 31
+SellerID: 8
+Seller Bid ID: 16
+Seller Price: $91.0749
+Seller Quantity: 43
+
+Quantity Taken: 31
+Clearing Price: $110.408
+Total Cost: $3422.66
+------------------------------------------------------------------------------------
+Matched Bid : 14
+
+BuyerID: 7
+Buyer Bid ID: 13
+Buyer Price: $121.459
+Buyer Quantity: 38
+SellerID: 8
+Seller Bid ID: 16
+Seller Price: $91.0749
+Seller Quantity: 12
+
+Quantity Taken: 12
+Clearing Price: $106.267
+Total Cost: $1275.2
+------------------------------------------------------------------------------------
+Remaining Bids:
+------------------------------------------------------------------------------------
+traderID bidType bidID   price   quantity 
+(Buyer7,    B,    13,    $121.459,   26)
+(Buyer1,    B,    1,    $120.492,   33)
+(Buyer10,    B,    19,    $96.1104,   24)
+(Buyer2,    B,    3,    $81.0862,   6)
+
+(Seller1,    S,    2,    $138.934,    32)
+(Seller5,    S,    10,    $146.64,    32)

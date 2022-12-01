@@ -1,0 +1,42 @@
+Name: Shelly Malik
+Date Of Birth : 12 8 2000
+Phone Number : 04-2555-1212
+Person Type :Family
+Address :Lincoln Drive, Kingswood, NSW
+2131
+
+Name: Donald Duck
+Date Of Birth : 10 6 1980
+Phone Number : 06-2873-8920
+Person Type :Friend
+Address :Disney Street, Orlando, VIC
+3234
+
+Name: Chelsea Tomak
+Date Of Birth : 12 8 1999
+Phone Number : 04-2777-8888
+Person Type :Friend
+Address :Kennedy Blvd, Omaha, QSL
+4172
+
+Name: Goof Goofy
+Date Of Birth : 6 2 1965
+Phone Number : 02-5782-9000
+Person Type :Family
+Address :Disney Street, Angles, NT
+9340
+
+Name: Brave Balto
+Date Of Birth : 6 2 1975
+Phone Number : 04-5782-5555
+Person Type :Business
+Address :Disney Road, Orlando, WA
+5672
+
+Name: Bash Bashfull
+Date Of Birth : 8 2 1965
+Phone Number : 02-2782-8000
+Person Type :Friend
+Address :Long Road, Redfen, NSW
+2101
+
